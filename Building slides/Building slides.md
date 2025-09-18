@@ -7,5 +7,7 @@ More lines good? What are we optimizing for?
 [Punctuation](Punctuation)
 
 [Slide breaks](Slide%20breaks)
+
+[Capitalization](Capitalization)
 ### Repeating slides
 Make it obvious that it's about to repeat!

@@ -34,5 +34,25 @@ And armed with cruel hate
 On earth is not his equal
 ```
 
-There
-'s '
+There's also the tradition of capitalizing words used for God,
+which in this text could be anything from "his" (widely accepted)
+to "mighty fortress", "bulkwark", and "helper" (less common).
+Typically I aim for the more widely accepted capitalization,
+but capitalize how the spirit is leading you.
+For example, I often see "Sun of Righteousness" capitalized,
+as that is a name used in scripture for Jesus,
+and thus somehow more official than "mighty fortress".
+A middle road approach leaves us with this:
+
+```
+A mighty fortress is our God
+A bulwark never failing
+Our helper He, amid the flood
+Of mortal ills prevailing
+
+For still our ancient foe
+Does seek to work us woe
+His craft and power are great
+And armed with cruel hate
+On earth is not his equal
+```
