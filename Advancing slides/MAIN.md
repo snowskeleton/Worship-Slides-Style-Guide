@@ -4,7 +4,7 @@ There are two important aspects of timing: clock time and music time.
 
 
 
-[[Blank Slides]]
+[Blank Slides](Blank%20Slides.md)
 
-[[Timing]]
+[Timing](Timing.md)
 
