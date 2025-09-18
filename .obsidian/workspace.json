@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worship Slides Style Guide.md",
+                "file": "Building slides/Capitalization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Worship Slides Style Guide"
+              "title": "Capitalization"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worship Slides Style Guide.md",
+                "file": "Building slides/Capitalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Worship Slides Style Guide"
+              "title": "Backlinks for Capitalization"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worship Slides Style Guide.md",
+                "file": "Building slides/Capitalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Worship Slides Style Guide"
+              "title": "Outgoing links from Capitalization"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worship Slides Style Guide.md",
+                "file": "Building slides/Capitalization.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Worship Slides Style Guide"
+              "title": "Outline of Capitalization"
             }
           }
         ]
@@ -170,15 +170,21 @@
   },
   "active": "5c8289207f9fb740",
   "lastOpenFiles": [
-    "README.md",
-    "Worship Slides Style Guide.md",
-    "You are part of worship!.md",
-    "README.md.md",
-    "Building slides.md",
-    "Pro Presenter tips.md",
-    "Advancing slides/Advancing Slides.md",
-    "Advancing.md",
+    "Building slides/Slide breaks.md",
+    "Building slides/Capitalization.md",
+    "Building slides/Punctuation.md",
+    "Building slides/Building slides.md",
+    "Blank slides",
+    "Building slides/Blank slides.md",
     "Advancing slides/Blank Slides.md",
+    "Worship Slides Style Guide.md",
+    "Building slides",
+    "Advancing slides/Advancing Slides.md",
+    "You are part of worship!.md",
+    "README.md",
+    "README.md.md",
+    "Pro Presenter tips.md",
+    "Advancing.md",
     "Advancing slides/Timing.md",
     "!Timing.md",
     "Advancing slides/Abstract.md",

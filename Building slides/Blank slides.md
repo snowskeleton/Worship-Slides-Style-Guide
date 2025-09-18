@@ -1,7 +1,3 @@
-## Building slides
-Line count
-More lines good? What are we optimizing for?
-
 ### Blank slides
 Why use blank slides?
 
@@ -47,10 +43,3 @@ If there is NOT a blank slide at the start,
 the operator loses the ability to show the title on the Confidence Monitor,
 and must use the mouse to select the title slide at the correct time.
 (See [Why the mouse is evil and should be avoided](#evil-mouse) for more on this topic.)
-
-
-### Punctuation
-Not as much as you'd think!
-
-### Repeating slides
-Make it obvious that it's about to repeat!
