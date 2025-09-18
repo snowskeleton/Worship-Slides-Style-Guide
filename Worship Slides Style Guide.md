@@ -2,7 +2,7 @@
 
 [You are part of worship!](You%20are%20part%20of%20worship!.md)
 
-[MAIN](Advancing%20slides/MAIN.md)
+[Advancing Slides](Advancing%20Slides.md)
 
 [Building slides](Building%20slides.md)
 
